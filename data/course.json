@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7771e456-7c73-8c37-19b0-dd3f2552d0af",
+      "4b92f9a6-c29f-a3a7-7718-5f6a5a9b28d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Riots, Strikes, and Conspiracies in American History",
+  "course_description": "This course uses readings and discussions to focus on a series of short-term events that shed light on American politics, culture, and social organization. It emphasizes finding ways to make sense of these complicated, highly traumatic events, and on using them to understand larger processes of change in American history. The class also gives students experience with primary documentation research through a term paper assignment.\n",
+  "department_numbers": [
+    "21H",
+    "11"
+  ],
+  "extra_course_numbers": "11.015J",
+  "primary_course_number": "21H.104J",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
